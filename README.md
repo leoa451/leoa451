@@ -44,8 +44,8 @@ Hi there! 👋🏻 I’m Leo Arkhipov, I am a multi-disciplinary consultant and 
 - **Developer**  
   - Microsoft Certified: Azure Developer Associate
   - AWS Certified Developer – Associate
-  - scrum.org Certified Professional Scrum Master (PSM-I)
-  - scrum.org Certified Professional Scrum Developer (PSD)
+  - scrum.org Certified Professional Scrum Master
+  - scrum.org Certified Professional Scrum Developer
 
 - **Cloud Solutions Architect**  
   - Microsoft Certified: Azure Solutions Architect Expert
