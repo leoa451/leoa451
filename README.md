@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a multi-disciplinary consultant and Senior Software Engineer with over 20 years of experience in the tech industry. My expertise spans secure cloud solutions, AI-powered technologies, software engineering, quantitative analysis, product development, DevOps, MLOps, risk management, and cybersecurity. I am passionate about driving transformative business outcomes through innovative solution architecture and a commitment to lifelong learning.
+Hi there! 👋🏻 I’m Leo Arkhipov, I am a multi-disciplinary consultant and Senior Software Engineer with over 20 years of experience in the tech industry. My expertise spans secure cloud solutions, AI-powered technologies, software engineering, quantitative analysis, product development, DevOps, MLOps, risk management, and cybersecurity. I am passionate about driving transformative business outcomes through innovative solution architecture and a commitment to lifelong learning.
 
 ## Professional Experience
 
