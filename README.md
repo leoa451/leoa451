@@ -22,6 +22,8 @@ Hi there! 👋🏻 I’m Leo Arkhipov, I am a multi-disciplinary consultant and 
   *Telstra*  
   Developed enterprise solutions and application integration for cloud services, security, and business applications.
 
+- **Earlier roles: ICS Consultant, Senior Consulting Engineer, Senior Engineer, Network Engineer, Senior Systems Administrator**  
+
 ## Skills
 
 - **Programming Languages:**  
