@@ -1,6 +1,4 @@
-# Leo Arkhipov
-
-**Transforming Business Challenges into Opportunities with AI & Secure Cloud Solutions**
+# Transforming Business Challenges into Opportunities with AI & Secure Cloud Solutions
 
 ## About Me
 
