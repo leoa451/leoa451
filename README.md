@@ -110,10 +110,6 @@ Hi there! 👋🏻 I’m Leo Arkhipov, I am a multi-disciplinary consultant and 
 - **AI-Powered Trading System with Risk Management**  
   Developed an AI-driven trading system incorporating advanced risk management strategies.
 
-## Contact
-
-- **LinkedIn:** [Leo Arkhipov](https://www.linkedin.com/in/leo-arkhipov/)
-- **GitHub:** [LeoArkhipov](https://github.com/LeoArkhipov)
 
 ---
 
