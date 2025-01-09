@@ -88,7 +88,8 @@ Hi there! 👋🏻 I’m Leo Arkhipov, I am a multi-disciplinary consultant and 
   *Quantic School of Business and Technology*  
   Specialization in Product Strategy and Business Administration with Entrepreneurship.
 
-- **Master of Science in Financial Engineering**  (WIP)
+- **Master of Science in Financial Engineering**
+  *WIP*
   *WorldQuant University*  
   Specialization in Financial and Quantitative Engineering.
 
