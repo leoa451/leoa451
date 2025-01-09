@@ -88,27 +88,9 @@ Hi there! 👋🏻 I’m Leo Arkhipov, I am a multi-disciplinary consultant and 
   *Quantic School of Business and Technology*  
   Specialization in Product Strategy and Business Administration with Entrepreneurship.
 
-- **Master of Science in Financial Engineering**  
+- **Master of Science in Financial Engineering**  (WIP)
   *WorldQuant University*  
   Specialization in Financial and Quantitative Engineering.
-
-## Nanodegrees
-  - AWS Machine Learning Foundations - Advanced (Udacity)
-  - AI Programming with Python (Udacity)
-
-## Labs
-  - Applied Data Science (WorldQuant University)
-    
-## Projects
-
-- **Data Integration for Microsoft Power BI & Cisco Webex CX**  
-  Led the development of business reporting capabilities for the City of Monash's Customer Contact Centre migration to Cisco Webex CX Cloud.
-
-- **Azure Landing Zones**  
-  Improved deployment efficiency by designing and implementing DevOps pipelines, reducing deployment time from 4.5 hours to 20 minutes for TAFE NSW.
-
-- **AI-Powered Trading System with Risk Management**  
-  Developed an AI-driven trading system incorporating advanced risk management strategies.
 
 
 ---
