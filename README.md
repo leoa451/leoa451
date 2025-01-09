@@ -89,8 +89,8 @@ Hi there! 👋🏻 I’m Leo Arkhipov, I am a multi-disciplinary consultant and 
   Specialization in Product Strategy and Business Administration with Entrepreneurship.
 
 - **Master of Science in Financial Engineering**
-  *WIP*
-  *WorldQuant University*  
+  *WorldQuant University*
+  WIP
   Specialization in Financial and Quantitative Engineering.
 
 
