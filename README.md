@@ -2,9 +2,13 @@
 
 ## About Me
 
-Hi there! 👋🏻 I’m Leo, I am a multi-disciplinary consultant and Senior Software Engineer with over 20 years of experience in the tech industry. My expertise spans secure cloud solutions, AI-powered technologies, software engineering, quantitative analysis, product development, DevOps, MLOps, risk management, and cybersecurity. I am passionate about driving transformative business outcomes through innovative solution architecture and a commitment to lifelong learning.
+Hi there! 👋🏻 I’m Leo, a multi-disciplinary consultant and Senior Software Engineer with over 20 years of experience in the tech industry. My expertise spans secure cloud solutions, AI-powered technologies, software engineering, quantitative analysis, product development, DevOps, MLOps, risk management, and cybersecurity. I am passionate about driving transformative business outcomes through innovative solution architecture and a commitment to lifelong learning.
 
 ## Professional Experience
+
+- **Digital Transformation Practice Lead**  
+  *Outcomex*  
+  Digital transformation strategy and solutions: secure Cloud, AI, Data, K8s, DevOps, MLOps, GitOps.
 
 - **Senior Software Engineer, Product & Cloud Engineering**  
   *Outcomex*  
