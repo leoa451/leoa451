@@ -14,7 +14,7 @@ Hi there! 👋🏻 I’m Leo, a multi-disciplinary consultant and Senior Softwar
   *Outcomex*  
   Cloud solutions and Product architecture/development.
 
-- **Founder & Engineering Lead**  
+- **Engineering Lead / Founder**  
   *Arktec Quant*  
   Leading the development of low-latency agentic AI systems for automated trading and alpha research.
   
