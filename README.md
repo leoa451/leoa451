@@ -1,6 +1,6 @@
-# Transforming Business Challenges into Opportunities with AI & Secure Cloud Solutions
+# Transforming Business Challenges into Opportunities with AI & Data
 
-Hi there! 👋🏻 I’m Leo, a multi-disciplinary consultant and Senior Software Engineer with over 20 years of experience in the tech industry. My expertise spans secure cloud solutions, AI-powered technologies, software engineering, quantitative analysis, product development, DevOps, MLOps, risk management, and cybersecurity. I am passionate about driving transformative business outcomes through innovative solution architecture and a commitment to lifelong learning.
+Hi there! 👋🏻 I’m Leo, a principal cross-functional consultant with a track record of solving complex business challenges by leveraging deep expertise in Product Development, Software Engineering, Agentic AI Systems, Generative AI Systems, Deep Learning & Data Engineering, Business Consulting, DevOps, Cloud and Cybersecurity (Product/AppSec) to drive transformative outcomes.
 
 ## Professional Experience
 
