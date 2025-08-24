@@ -4,27 +4,31 @@ Hi there! 👋🏻 I’m Leo, a principal cross-functional consultant with a tra
 
 ## Professional Experience
 
+- **AI & Digital Transformation Practice Lead**  
+  *365mesh*  
+  AI & Digital transformation strategy and AI-powered products.
+
+- **Head of AI R&D / Founder**  
+  *Arktec Quant*  
+  Low-Latency Agentic AI for Finance & Beyond, LLMOps for QuantOps
+
 - **Digital Transformation Practice Lead**  
   *Outcomex*  
-  Digital transformation strategy and solutions: secure Cloud, AI, Data, K8s, DevOps, MLOps, GitOps.
+  Digital transformation strategy and solutions: AI, Data, K8s, Cloud, DevOps, MLOps, GitOps.
 
-- **Senior Software Engineer, Product & Cloud Engineering**  
+- (past) **Senior Software Engineer, Product & Cloud Engineering**  
   *Outcomex*  
-  Cloud solutions and Product architecture/development.
-
-- **Engineering Lead / Founder**  
-  *Arktec Quant*  
-  Low-latency agentic AI systems for automated trading and alpha research.
+  AI, cloud solutions and products.
   
-- **Senior Software Engineer, Technology Transformation Hive**  
+- (past) **Senior Software Engineer, Technology Transformation Hive**  
   *PALO IT*  
   Product architecture/development.
 
-- **Senior Technology Consultant, Services Management**  
+- (past) **Senior Technology Consultant, Services Management**  
   *Telstra*  
   Developed enterprise solutions and application integration for cloud services, security, and business applications.
 
-- **Earlier roles: ICS Consultant, Senior Consulting Engineer, Senior Engineer, Network Engineer, Senior Systems Administrator**  
+- (past) **Earlier roles: ICS Consultant, Senior Consulting Engineer, Senior Engineer, Network Engineer, Senior Systems Administrator**  
 
 ## Skills
 
