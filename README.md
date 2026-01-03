@@ -47,29 +47,29 @@ Hi there! 👋🏻 I’m Leo, a principal cross-functional consultant with a tra
 
 ## Certifications
 
+- **Data Science, Artificial Intelligence and Data**  
+  - NVIDIA Certitied Professional - Accelerated Data Science
+  - Microsoft Certified: Azure AI Engineer Associate
+  - Microsoft Certified: Azure Data Scientist Associate
+  - Microsoft Certified: Fabric Analytics Engineer Associate
+  - Microsoft Certified: Fabric Data Engineer Associate
+  
 - **Developer**  
   - Microsoft Certified: Azure Developer Associate
   - AWS Certified Developer – Associate
   - scrum.org Certified Professional Scrum Master
   - scrum.org Certified Professional Scrum Developer
+ 
+- **DevOps**
+  - AWS Certified DevOps Engineer – Professional
+  - Microsoft Certified: DevOps Engineer Expert
+  - GitHub Actions Certified
+  - GitHub Enterprise Administration Certified
 
 - **Cloud Solutions Architect**  
   - Microsoft Certified: Azure Solutions Architect Expert
   - AWS Certified Solutions Architect – Professional
 
-- **DevOps**
-  - Microsoft Certified: DevOps Engineer Expert
-  - AWS Certified DevOps Engineer – Professional
-  - GitHub Actions Certified
-  - GitHub Enterprise Administration Certified
-
-- **Data Science & AI:**  
-  - Microsoft Certified: Azure Data Scientist Associate
-  - Microsoft Certified: Azure AI Engineer Associate
-
-- **Data Analytics & Visualization:**  
-  - Microsoft Certified: Fabric Analytics Engineer Associate
- 
 - **Security:**  
   - ISC2 Certified Information Systems Security Professional (CISSP) [Credential](https://www.credly.com/badges/f6434fc0-a162-4233-bd0d-809c3bb8f1af)
   - Microsoft Certified Cybersecurity Architect Expert
