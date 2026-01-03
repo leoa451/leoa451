@@ -12,7 +12,7 @@ Hi there! 👋🏻 I’m Leo, a principal cross-functional consultant with a tra
   *Arktec Quant*  
   Low-Latency Agentic AI for Finance & Beyond, LLMOps for QuantOps
 
-- **Digital Transformation Practice Lead**  
+- (past) **Digital Transformation Practice Lead**  
   *Outcomex*  
   Digital transformation strategy and solutions: AI, Data, K8s, Cloud, DevOps, MLOps, GitOps.
 
