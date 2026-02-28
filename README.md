@@ -48,7 +48,10 @@ Hi there! 👋🏻 I’m Leo, a principal cross-functional consultant with a tra
 ## Certifications
 
 - **Data Science, Artificial Intelligence and Data**  
+  - NVIDIA Certitied Professional - Generative AI LLMs
+  - NVIDIA Certitied Professional - Agentic AI
   - NVIDIA Certitied Professional - Accelerated Data Science
+  - NVIDIA Certitied Associate - Generative AI Multi-Modal
   - Microsoft Certified: Azure AI Engineer Associate
   - Microsoft Certified: Azure Data Scientist Associate
   - Microsoft Certified: Fabric Analytics Engineer Associate
